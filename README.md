@@ -26,14 +26,15 @@
 
 Лог команд:
 ```
-git clone
-git pull
-git log
-git switch
-git add
-git commit
-git push
-git revert
+git clone - клонирование репозитория на компьютер
+git pull - подтягивание изменений из репозитория
+git log - вывод истории коммитов в ветке
+git switch - смена ветки
+git add - добавление изменений в индекс
+git commit - фиксация изменений из индекса
+git push - перенос изменений в репозиторий 
+git branch - создание новой ветки
+git revert - откат коммита
 ```
 История операций:
 ```
